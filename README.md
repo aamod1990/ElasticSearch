@@ -2,4 +2,4 @@
 
 ## Command to Find ElasticSearch
 
-[Generic Command ](Indices.md)
+[Generic Command ](generic_commands.md)
