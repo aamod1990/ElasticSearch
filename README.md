@@ -1,2 +1,5 @@
 # ElasticSearch
-Basics Command and URL of Elastic Search
+
+## Command to Find ElasticSearch
+
+[Generic Command ](Indices.md)
